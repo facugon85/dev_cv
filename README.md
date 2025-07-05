@@ -1,59 +1,89 @@
-# Portfolio - CV de Facundo Gonzalez
+# 💼 Facundo Gonzalez — Frontend Developer
 
-Este es el código fuente de mi portfolio profesional y CV online, desarrollado con **React**, **Vite** y **TailwindCSS**.
+¡Hola! Soy **Facundo Gonzalez**, desarrollador frontend enfocado en crear experiencias digitales memorables. Me especializo en **React**, diseño UI/UX y desarrollo de aplicaciones web modernas con una visión centrada en el producto.
 
-## 🚀 Demo en vivo
-[https://facugon85.github.io/dev_cv/](https://facugon85.github.io/dev_cv/)
-
-## 📦 Instalación
-
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
-   cd tu-repo
-   ```
-2. Instala las dependencias:
-   ```bash
-   npm install
-   ```
-
-## 🛠️ Scripts útiles
-
-- `npm run dev` — Inicia el entorno de desarrollo local.
-- `npm run build` — Genera el build de producción en la carpeta `dist`.
-- `npm run preview` — Previsualiza el build localmente.
-
-## 🌐 Deploy en GitHub Pages
-
-1. Asegúrate de que el archivo `vite.config.ts` tenga:
-   ```js
-   export default defineConfig({
-     base: '/dev_cv/',
-     // ...
-   })
-   ```
-2. Haz el build:
-   ```bash
-   npm run build
-   ```
-3. Copia la carpeta `img` a `dist/img` si tienes imágenes personalizadas:
-   ```bash
-   cp -r public/img dist/
-   ```
-4. Sube el contenido de `dist` a la rama/carpeta configurada en GitHub Pages.
-
-## 📁 Estructura principal
-
-- `src/` — Código fuente de la app (componentes, estilos, etc.)
-- `public/img/` — Imágenes usadas en el portfolio
-- `dist/` — Build listo para deploy
-
-## ✨ Tecnologías usadas
-- React
-- Vite
-- TailwindCSS
-- Framer Motion
+> Diseño, desarrollo e iteración con propósito. Me encanta construir interfaces visuales que conecten con el usuario y funcionen en todos los dispositivos.
 
 ---
 
-**Desarrollado por [Facundo Gonzalez](https://github.com/facugon85)**
+## 🚀 Sobre Mí
+
+📍 **Ubicación:** Buenos Aires, Argentina  
+💬 **Idiomas:** Español (nativo) – Inglés (fluido)  
+🛠️ **Stack principal:** React · TailwindCSS · Vite · JavaScript · Node · MongoDB · Bootstrap · Python
+
+🎯 **Mi objetivo:** Aportar soluciones visuales efectivas, manteniendo la armonía entre código, diseño y experiencia del usuario.
+
+---
+
+## 🧠 Habilidades Técnicas
+
+| Tecnología        | Nivel |
+|-------------------|-------|
+| Figma             | 90%   |
+| JavaScript        | 85%   |
+| HTML/CSS          | 85%   |
+| Tailwind / UI Libs| 80%   |
+| React             | 75%   |
+| Node.js           | 70%   |
+| UX/UI             | 70%   |
+
+---
+
+## 🛠️ Tecnologías que utilizo
+
+`HTML5` · `CSS3` · `JavaScript` · `React` · `TailwindCSS` · `Node.js` · `MongoDB`  
+`Python` · `Vite` · `Bootstrap` · `Git` · `Figma` · `Next.js` (aprendizaje en curso)
+
+---
+
+## 📁 Proyectos Destacados
+
+- 🔮 **Portfolio Rebootualista** — Sitio creativo con scroll animado, temas y efectos visuales.
+- 💼 **Landing Page para Agencia de Marketing** — SEO, accesibilidad, diseño responsive.
+- 📆 **Webapp para Reservas** — Turnos en tiempo real, frontend dinámico y backoffice.
+- 🍔 **Bastards Burger** — Diseño moderno para restaurante, con carta digital interactiva.
+- 📦 **Gestor de Stock** — Administración de productos, métricas y control desde dashboard.
+- 🛡 **Diseño Web para Seguros** — UX para cotización online, visual limpio y confiable.
+
+Cada uno de estos proyectos está diseñado con un enfoque **mobile-first**, buena arquitectura de componentes y performance optimizada.
+
+---
+
+## 💼 Servicios que ofrezco
+
+- Desarrollo Web completo
+- Interfaces Frontend con React
+- Diseño UI/UX a medida
+- Webapps SaaS personalizadas
+- Automatización de procesos
+
+---
+
+## ✨ Workflow
+
+1. **Consulta** → Análisis de necesidades reales  
+2. **Planificación** → Diseño y prototipo validado  
+3. **Desarrollo** → Código limpio, rápido y responsive  
+4. **Entrega** → Acompañamiento post-publicación  
+
+---
+
+## 📫 Contacto
+
+- **Email:** facundocutz.pzona.cv@gmail.com  
+- **WhatsApp:** [+54 9 11 6906-0553](https://wa.me/5491169060553)  
+- **Instagram:** [@facugon.dev](https://instagram.com/facugon.dev)  
+- **LinkedIn:** [Próximamente]
+
+---
+
+## 🧩 Extras
+
+- Sitio desarrollado con `React + Vite`  
+- Diseño adaptativo, minimalista y accesible  
+- "Hecho con ❤️ por Cufa"
+
+---
+
+Gracias por visitar mi perfil. Si te interesa colaborar, ¡escribime!

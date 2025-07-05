@@ -39,7 +39,7 @@
 
 ## 📁 Proyectos Destacados
 
-- 🔮 **Portfolio Rebootualista** — Sitio creativo con scroll animado, temas y efectos visuales.
+- 🔮 **Portfolio Neobrutalista** — Sitio creativo con scroll animado, temas y efectos visuales.
 - 💼 **Landing Page para Agencia de Marketing** — SEO, accesibilidad, diseño responsive.
 - 📆 **Webapp para Reservas** — Turnos en tiempo real, frontend dinámico y backoffice.
 - 🍔 **Bastards Burger** — Diseño moderno para restaurante, con carta digital interactiva.

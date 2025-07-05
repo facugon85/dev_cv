@@ -33,7 +33,7 @@
 ## 🛠️ Tecnologías que utilizo
 
 `HTML5` · `CSS3` · `JavaScript` · `React` · `TailwindCSS` · `Node.js` · `MongoDB`  
-`Python` · `Vite` · `Bootstrap` · `Git` · `Figma` · `Next.js` (aprendizaje en curso)
+`Python` · `Vite` · `Bootstrap` · `Git` · `Next.js` (aprendizaje en curso)
 
 ---
 
@@ -69,15 +69,6 @@ Cada uno de estos proyectos está diseñado con un enfoque **mobile-first**, bue
 
 ---
 
-## 📫 Contacto
-
-- **Email:** facundocutz.pzona.cv@gmail.com  
-- **WhatsApp:** [+54 9 11 6906-0553](https://wa.me/5491169060553)  
-- **Instagram:** [@facugon.dev](https://instagram.com/facugon.dev)  
-- **LinkedIn:** [Próximamente]
-
----
-
 ## 🧩 Extras
 
 - Sitio desarrollado con `React + Vite`  
@@ -86,4 +77,4 @@ Cada uno de estos proyectos está diseñado con un enfoque **mobile-first**, bue
 
 ---
 
-Gracias por visitar mi perfil. Si te interesa colaborar, ¡escribime!
+Gracias por visitar mi perfil. Si te interesa, ¡escribime!
